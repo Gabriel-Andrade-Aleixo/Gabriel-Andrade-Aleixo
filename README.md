@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Aleixo!!!
 
-- 🌱 Estudando Java Script e Python
-- 🔭 Cursando atualmente Desenvolvimento de Software Multiplataforma
+- 🌱 Estudando Java Script e Python.
+- 🔭 Cursando atualmente Desenvolvimento de Software Multiplataforma.
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade-Aleixo&show_icons=true&theme=radical" />
