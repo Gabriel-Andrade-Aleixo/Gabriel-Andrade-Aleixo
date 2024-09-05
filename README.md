@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Olá, sou o Gabriel Aleixo</h2>
 
 ###
