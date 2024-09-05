@@ -97,6 +97,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Gabriel-Andrade-Aleixo/Gabriel-Andrade-Aleixo/output/snake.svg" alt="Snake animation" />
 
 ###
