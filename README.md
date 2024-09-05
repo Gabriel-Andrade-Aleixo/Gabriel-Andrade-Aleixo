@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h2 align="center">Olá, sou o Gabriel Aleixo</h2>
 
 ###
@@ -92,6 +94,12 @@
 ###
 
 <h2 align="center"></h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Gabriel-Andrade-Aleixo/count.svg?"  />
+</div>
 
 ###
 
