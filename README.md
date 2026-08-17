@@ -73,7 +73,7 @@ O projeto representa meu foco atual em desenvolver aplicações que compartilham
 
 **Tecnologias:** `Flutter` `Dart` `Next.js` `React` `Three.js` `Node.js` `PostgreSQL`
 
-[Ver projeto →](/Gabriel-Andrade-Aleixo/rpg-sistema)
+[Ver projeto →](https://github.com/Gabriel-Andrade-Aleixo/rpg-sistema)
 
 ---
 
@@ -101,7 +101,7 @@ Possui suporte a armazenamento local e integração com uma API remota.
 
 **Tecnologias:** `Flutter` `Dart` `SQLite` `Node.js` `Express` `PostgreSQL`
 
-[Ver projeto →](/Gabriel-Andrade-Aleixo/Flutter-Registro-de-Viagens)
+[Ver projeto →](https://github.com/Gabriel-Andrade-Aleixo/Flutter-Registro-de-Viagens)
 
 ---
 
@@ -113,7 +113,7 @@ O **69 Bits** nasceu como uma plataforma voltada à valorização e descoberta d
 
 Foi um dos projetos que marcou o início da minha evolução no desenvolvimento web e no trabalho em equipe.
 
-[Ver projeto →](/Gabriel-Andrade-Aleixo/69-Bits)
+[Ver projeto →](https://github.com/Gabriel-Andrade-Aleixo/69-Bits)
 
 ---
 
@@ -125,7 +125,7 @@ Inclui endpoints para verificação da aplicação e integração com pipeline d
 
 **Tecnologias:** `Node.js` `REST API` `CI/CD`
 
-[Ver projeto →](/Gabriel-Andrade-Aleixo/projeto-ci-cd-back)
+[Ver projeto →](https://github.com/Gabriel-Andrade-Aleixo/projeto-ci-cd-back)
 
 ---
 
