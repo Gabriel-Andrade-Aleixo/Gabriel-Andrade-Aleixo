@@ -2,8 +2,6 @@
 
 # Gabriel Aleixo
 
-### Software Developer
-
 **Web · Mobile · Desktop**
 
 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
